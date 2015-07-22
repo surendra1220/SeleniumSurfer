@@ -12,3 +12,6 @@ public abstract class AbstractClass {
 	
 }
 
+/*
+Adding new commit hash
+*/
